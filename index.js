@@ -21,4 +21,3 @@ function inc(x) {
 function dec(x) {
   x -= 1;
 }
-
